@@ -1,12 +1,12 @@
-Após algumas pesquisas, foi encontrado o site de uma fabricante de sensores de monitoramento ambiental chamada Atlas Scientific, no site foi possível encontrar os seguintes sensores:
+ï»¿ApÃ³s algumas pesquisas, foi encontrado o site de uma fabricante de sensores de monitoramento ambiental chamada Atlas Scientific, no site foi possÃ­vel encontrar os seguintes sensores:
 
-# ENV-RGB: Color Detector Sensor - É um sensor de cores, segundo suas especificações, pode ser usado para medir a turbidez da água.
+# ENV-RGB: Color Detector Sensor - Ã‰ um sensor de cores, segundo suas especificaÃ§Ãµes, pode ser usado para medir a turbidez da Ã¡gua.
 
-# ENV-TMP: Field Ready Temperature Sensor - É um sensor de temperatura, pode ser usado para medir a temperatura da água.
+# ENV-TMP: Field Ready Temperature Sensor - Ã‰ um sensor de temperatura, pode ser usado para medir a temperatura da Ã¡gua.
 
-# ENV-TMP-D: Digital Field Temperature Sensor with Data Logger - É um sensor digital de temperatura, pode ser usado para medir a temperatura da água.
+# ENV-TMP-D: Digital Field Temperature Sensor with Data Logger - Ã‰ um sensor digital de temperatura, pode ser usado para medir a temperatura da Ã¡gua.
 
-# Conductivity Sensor - É um sensor de condutividade, pode ser utilizado para medir a condutividade da água.
+# Conductivity Sensor - Ã‰ um sensor de condutividade, pode ser utilizado para medir a condutividade da Ã¡gua.
 
-Estes sensores foram os encontrados no site assim como seus Datasheets que explicam seu funcionamento, os sensores que não continham essas informações foram descartados.
-Os sensores de pH e Oxigênio Dissolvido foram encontrados, porém necessitam de calibração, portanto, também foram descartados.
+Estes sensores foram os encontrados no site assim como seus Datasheets que explicam seu funcionamento, os sensores que nÃ£o continham essas informaÃ§Ãµes foram descartados.
+Os sensores de pH e OxigÃªnio Dissolvido foram encontrados, porÃ©m necessitam de calibraÃ§Ã£o, portanto, tambÃ©m foram descartados.
