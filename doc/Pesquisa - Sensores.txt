@@ -1,0 +1,12 @@
+Após algumas pesquisas, foi encontrado o site de uma fabricante de sensores de monitoramento ambiental chamada Atlas Scientific, no site foi possível encontrar os seguintes sensores:
+
+# ENV-RGB: Color Detector Sensor - É um sensor de cores, segundo suas especificações, pode ser usado para medir a turbidez da água.
+
+# ENV-TMP: Field Ready Temperature Sensor - É um sensor de temperatura, pode ser usado para medir a temperatura da água.
+
+# ENV-TMP-D: Digital Field Temperature Sensor with Data Logger - É um sensor digital de temperatura, pode ser usado para medir a temperatura da água.
+
+# Conductivity Sensor - É um sensor de condutividade, pode ser utilizado para medir a condutividade da água.
+
+Estes sensores foram os encontrados no site assim como seus Datasheets que explicam seu funcionamento, os sensores que não continham essas informações foram descartados.
+Os sensores de pH e Oxigênio Dissolvido foram encontrados, porém necessitam de calibração, portanto, também foram descartados.
